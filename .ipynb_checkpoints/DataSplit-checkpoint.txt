@@ -1,0 +1,5 @@
+URFall dataset link: https://fenix.ur.edu.pl/~mkepski/ds/uf.html
+
+For occlusion experiment:
+Train Split: All augmented videos of ADL 01-27 and Fall 02,06,08,09,11,12,16,18
+Test split: Only ORIGINAL videos of ADL 30-33, 36-40 and Fall 19,21,23,25-30
